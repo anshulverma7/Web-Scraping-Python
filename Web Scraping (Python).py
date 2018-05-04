@@ -2,8 +2,6 @@
 
 # Web Scraping
 
-# EM624 - Exercise 09
-
 from bs4 import BeautifulSoup
 import urllib2 as ur
 import re
